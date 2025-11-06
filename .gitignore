@@ -47,3 +47,4 @@ resources/js/ziggy.d.ts
 /public/build
 /public/php_errors.log
 /tests/Feature/Console/Commands/php_errors.log
+tsconfig.tsbuildinfo
